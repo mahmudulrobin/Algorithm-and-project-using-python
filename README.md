@@ -1,4 +1,4 @@
-# Algorithm-and-project-using-python
+# Data-Manipulation-and-Plotting
 
 In this project, Several input data are used to train and test data are used for testing using different algorithms such as K-Means clustering, KNN, Perceptron and so forth. Moreover, Data are plotted to figure out the result of test data in comparison with train data in an organized way.
 
